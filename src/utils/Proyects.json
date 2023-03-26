@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "type": "Ejercicio",
+        "title": "CARD DETAILS",
+        "description": "Ejercicio para capturar una tarjeta y hacer las validaciones correspondientes.",
+        "github": "",
+        "site": "https://card-details.netlify.app/",
+        "color": "card purple",
+        "image": "/images/projects/card-details.jpg"
+    },
+    {
+        "id": "2",
+        "type": "Ejercicio",
+        "title": "ADVICE GENERATOR",
+        "description": "Esta es una página que consume una API para generar consejos.",
+        "github": "",
+        "site": "",
+        "color": "card mint",
+        "image": "/images/projects/advice-generator.jpg"
+    },
+    {
+        "id": "3",
+        "type": "Ejercicio",
+        "title": "NOTIFICATIONS PAGE MAIN",
+        "description": "Ejercicio que simula una app de notificaciones.",
+        "github": "",
+        "site": "",
+        "color": "card blue",
+        "image": "/images/projects/notifications-page.jpg"
+    },
+    {
+        "id": "4",
+        "type": "Ejercicio",
+        "title": "NEWS HOMEPAGE MAIN",
+        "description": "Maquetación de una página principal de noticias.",
+        "github": "",
+        "site": "",
+        "color": "card orange",
+        "image": "/images/projects/news-homepage.jpg"
+    }
+]
